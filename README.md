@@ -1,19 +1,39 @@
-# EBOOK-GOLPES-VIRTUAIS-FINANCEIROS
+# PROJETO EBOOK-GOLPES-VIRTUAIS-FINANCEIROS
 
-## 📒 Descrição
-Este texto explora a importância e diversas aplicações da IA no nosso dia a dia.
+ℹ️ NOTE: Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da DIO
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do texto;
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Prompt utilizado(Faça em texto para e-book, com foco em golpes virtuais financeiros, listando os principais tipos de golpes praticados no mercado.) Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso texto. 
+📕Clique aqui para ler
 
-## 🚀 Resultados
-O texto apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+💻 Tecnologias utilizadas no projeto
+ChatGPT
+Leonardo.ai
+PowerPoint
 
-[LINK PARA O TEXTO AQUI]()
+🧠 Prompts
+ChatGPT：
+Ação	prompt
+conteúdo	Faça em texto para e-book, com foco em golpes virtuais financeiros, listando os principais tipos de golpes praticados no mercado. 
+Leonardo.ai：
+Ação	prompt
+A futuristic, high-tech 3D rendered illustration depicting a group of cybercriminals huddled around a sleek, glowing computer terminal, surrounded by holographic screens and wires, set against a dark, neon-lit cityscape at night, with towering skyscrapers and bustling streets in the background, the cybercriminals themselves wearing sleek, high-tech masks and futuristic attire, with varying skin tones and facial features, their eyes glowing with an otherworldly intensity as they work together to hack into a secure system, the overall atmosphere tense and ominous, with a focus on bold, neon colors and sharp, geometric lines, and a sense of high-stakes danger lurking in the shadows.
 
-## 💭 Reflexão
-Criar este texto foi uma experiência interessante sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Flux Dev
+Flux Dev
+
+Graphic Design 3D
+
+4
+
+1120 x 1120px
+
+
+✨ Features
+Conteúdo gerado via ChatGPT
+Imagens geradas via Leonardo.ai
+📚 Materiais
+Imagens utilizadas em assets
+ebook gerado durante as aulas em output
+🛠️ Instruções de execução
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
